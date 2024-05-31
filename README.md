@@ -1,8 +1,9 @@
 # mito-power-ml
 
-# Image segmentation was performed by implementing the U-Net architecture with both basic trainable weights and pretrained weights from ResNet, EfficientNet, and MobileNet. 
+# Image segmentation 
+It was performed by implementing the U-Net architecture with both basic trainable weights and pretrained weights from ResNet, EfficientNet, and MobileNet. 
 
-#DataSets
+# DataSets
 Two types of datasets were used to implement the segmentation model:
 
 Real Images Dataset: This dataset comprises 60 corresponding face and eye masks. It was primarily used in transfer learning.
