@@ -6,7 +6,7 @@ It was performed by implementing the U-Net architecture with both basic trainabl
 # DataSets
 Two types of datasets were used to implement the segmentation model:
 
-Real Images Dataset: This dataset comprises 60 corresponding face and eye masks. It was primarily used in transfer learning.
+Real Images Dataset: This dataset comprises 60 corresponding face and eye masks. It was primarily used in transfer learning. <br>
 SBVPI Dataset: This dataset was used for training the basic U-Net model, providing a significant amount of data for robust model training.
 Augmentations were applied to both datasets to remove location invariance and enhance model performance.
 
