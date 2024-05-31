@@ -10,5 +10,5 @@ Real Images Dataset: This dataset comprises 60 corresponding face and eye masks.
 SBVPI Dataset: This dataset was used for training the basic U-Net model, providing a significant amount of data for robust model training.
 Augmentations were applied to both datasets to remove location invariance and enhance model performance.
 
-#Comparison
+# Comparison
 The different models were compared based on their validation and training loss and accuracy. This comparison helped in identifying the best-performing model among those trained with basic weights and those utilizing pretrained weights from ResNet, EfficientNet, and MobileNet.
