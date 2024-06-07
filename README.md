@@ -12,3 +12,6 @@ Augmentations were applied to both datasets to remove location invariance and en
 
 # Comparison
 The different models were compared based on their validation and training loss and accuracy. This comparison helped in identifying the best-performing model among those trained with basic weights and those utilizing pretrained weights from ResNet, EfficientNet, and MobileNet.
+
+# Classification
+For jaundice classifier the images were segmented from the best model (EfficientNet) in this case and saved into the main directory. All the datasets used in the image segmentation and classification is present in the private google drive link https://drive.google.com/drive/folders/1h8fCdlmqsghjhL-Wrc2z48lTex8Glb1e?usp=sharing. 
